@@ -19,6 +19,7 @@
                 android:id="@android:id/tabs"
                 android:layout_width="match_parent"
                 android:layout_height="56dp"
+                android:layout_scrollFlags="scroll|enterAlways"
                 android:backgroundTint="@drawable/button_background" />
 
             <WebView
@@ -29,7 +30,9 @@
 
             <SearchView
                 android:layout_width="match_parent"
-                android:layout_height="match_parent" />
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="visible" />
 
             <FrameLayout
                 android:id="@android:id/tabcontent"
@@ -59,6 +62,7 @@
                     android:animateLayoutChanges="true"
                     android:orientation="vertical">
 
+                    <!--To scroll these tabs use ab tab mode ="scrollable"-->
                 </LinearLayout>
             </FrameLayout>
         </LinearLayout>

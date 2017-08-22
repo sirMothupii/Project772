@@ -7,9 +7,13 @@ import android.support.v4.app.FragmentManager;
  */
 
 class ViewPagerAdapter {
-    public ViewPagerAdapter(FragmentManager supportFragmentManager) {
+    public ViewPagerAdapter(FragmentManager supportFragmentManager)
+    {
+
     }
 
-    public void addFragment(void aVoid, String s) {
+    public void addFragment(String s)
+    {
+
     }
 }

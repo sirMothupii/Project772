@@ -3,4 +3,6 @@
     <item name="action_settings" type="id" />
     <item name="toolbar" type="id" />
     <item name="viewPager" type="id" />
+    <item name="btnLogin" type="id" />
+    <item name="tabs" type="id" />
 </resources>

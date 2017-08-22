@@ -6,5 +6,6 @@ package com.example.mothupii_.prototype102;
 
 class MyFragment {
     public static void newInstance(String social) {
+
     }
 }
