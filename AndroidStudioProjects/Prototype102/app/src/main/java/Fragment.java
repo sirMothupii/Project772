@@ -11,7 +11,8 @@ import com.example.mothupii_.prototype102.R;
  * Created by Mothupii_ on 2017-08-22.
  */
 
-public class Fragment extends android.support.v4.app.Fragment
+public class
+Fragment extends android.support.v4.app.Fragment
 {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
