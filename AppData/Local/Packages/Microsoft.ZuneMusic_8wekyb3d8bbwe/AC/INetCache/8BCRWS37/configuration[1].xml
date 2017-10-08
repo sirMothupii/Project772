@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clientConfiguration xmlns="http://schemas.microsoft.com/XblWinClient/2012/03" version="1">
+    <targetedClient>XblWinClient</targetedClient >                                 
+    <rights>Copyright (c) Microsoft Corporation. All rights reserved.</rights>     
+
+    <configuration name="Features">
+        <property name="EditorialPlaylistsEnabled" type="string" value="AU,CA,DE,FR,GB,MX,NZ,US" />
+        <property name="ExploreWithGenreDetailsEnabled" type="string" value="AU,CA,DE,FR,GB,MX,NZ,US" />
+        <property name="GenreRadioEnabled" type="string" value="AU,CA,DE,FR,GB,MX,NZ,US" />
+    </configuration>
+
+    <configuration name="Features" minBuild="16092.0" maxBuild="16102.0">
+        <property name="MusicPassInAppPurchase" type="string" value="" />
+    </configuration>
+
+    <configuration name="Features" minBuild="16102.1034">
+        <property name="MusicPassInAppPurchase" type="clearOverride" />
+    </configuration>
+
+    <configuration name="Features" maxBuild="17012.0">
+        <property name="MusicPassCampaign" type="string" value="" />
+    </configuration>
+
+    <configuration name="Features" minBuild="17012.1030" maxBuild="17071.0">
+        <property name="MusicPassCampaign" type="string" value="US,GB,CA" />
+    </configuration>
+</clientConfiguration>

@@ -1,0 +1,7 @@
+COMMAND=PREDEX_LIBRARY
+FILE_PATH=C:\Users\Mothupii_\.android\build-cache\d39050971548d9237a03ae304b5f0090fcbdabe0\output\jars\classes.jar
+FILE_HASH=8df0e365e40beb151bc42dee20817721a6cab7b0
+BUILD_TOOLS_REVISION=26.0.1
+JUMBO_MODE=true
+OPTIMIZE=true
+MULTI_DEX=true

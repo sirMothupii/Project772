@@ -1,0 +1,315 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="OPSC7312_Assignment1_15012046" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,data.remotes.in.project.0,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.local.branches.count.1,config.update.type.MERGE,config.push.update.all.roots.enabled,config.ssh.enabled,data.remote.branches.count.0,config.force.push.enabled,config.warn.about.crlf.enabled" collectionTime="1505284163776" />
+      <project id="SpaceMindZ001" values="config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.ssh.enabled,config.save.policy.STASH,config.force.push.enabled,data.local.branches.count.1,config.update.type.MERGE,config.warn.about.crlf.enabled" collectionTime="1507348016457" />
+      <project id="15012046_Mothupi Ramlepe" values="config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled" collectionTime="1492091398158" />
+      <project id="beerBuddy" values="config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1501282154148" />
+      <project id="GoogleMapsApplication" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH" collectionTime="1507388702516" />
+      <project id="OPSC7311_Assignment2_15012046" values="config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1495642373650" />
+      <project id="Project77" values="data.remote.branches.count.1,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.update.type.MERGE,config.warn.about.crlf.enabled" collectionTime="1507402751555" />
+      <project id="DetailedLogin" values="config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1507400739244" />
+      <project id="OPSC7312_Assign1_15008791" values="config.ssh.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT" collectionTime="1504790981921" />
+      <project id="DatabaseApplication" values="config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1501343438129" />
+      <project id="BeerFinalPrototype" values="config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.update.type.MERGE,data.remote.branches.count.1,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.warn.about.detached.enabled,data.local.branches.count.1,data.remotes.in.project.1,config.force.push.enabled" collectionTime="1501778731572" />
+      <project id="Prototype102" values="config.repo.sync.DONT_SYNC,config.ssh.enabled,config.force.push.enabled,data.remote.branches.count.0,config.save.policy.STASH,data.remotes.in.project.0,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.enabled,config.update.type.MERGE,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,data.local.branches.count.1" collectionTime="1503815340944" />
+      <project id="EverythingMaps" values="config.push.update.all.roots.enabled,data.remotes.in.project.1,data.local.branches.count.1,data.remote.branches.count.1,config.ssh.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.update.type.MERGE,config.repo.sync.NOT_DECIDED" collectionTime="1502367184705" />
+      <project id="Project47" values="config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled" collectionTime="1505433339107" />
+      <project id="Project99" values="config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1505684840548" />
+      <project id="Project98" values="config.force.push.enabled,data.remote.branches.count.0,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.local.branches.count.1,data.remotes.in.project.0,config.warn.about.crlf.enabled,config.update.type.MERGE,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH" collectionTime="1506775135508" />
+      <project id="Prototype101" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1503681584313" />
+      <project id="CupsGame_15012046" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1496434768624" />
+      <project id="Project772" values="config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,data.local.branches.count.1,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,data.remote.branches.count.0,config.push.autoupdate.disabled,config.save.policy.STASH,data.remotes.in.project.0,config.force.push.enabled" collectionTime="1506835000958" />
+      <project id="15012046_OPSC_Assignment1" values="config.force.push.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled" collectionTime="1505214131849" />
+      <project id="Project176" values="config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled" collectionTime="1507425988293" />
+      <project id="TextFileApp" values="config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.update.all.roots.enabled" collectionTime="1496240039697" />
+      <project id="app" values="config.warn.about.crlf.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.save.policy.STASH" collectionTime="1504656642520" />
+      <project id="AndroidMaps" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled" collectionTime="1505905180660" />
+      <project id="AnInBevPrototype" values="config.ssh.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1502804530757" />
+      <project id="TheApplication" values="config.repo.sync.DONT_SYNC,data.local.branches.count.0,data.remotes.in.project.0,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,data.remote.branches.count.0,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.force.push.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1501333847316" />
+      <project id="OPSC7311-Assign2-15012046" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.force.push.enabled" collectionTime="1501105878409" />
+      <project id="BeerFinalPrototype2" values="data.remote.branches.count.0,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.0,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,data.local.branches.count.0,config.update.type.BRANCH_DEFAULT" collectionTime="1501326234070" />
+      <project id="OPSC7312_Assignment1_150120462" values="config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1504174523527" />
+      <project id="OPSC_15012046_Assignment_One" values="config.warn.about.detached.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED" collectionTime="1505162423982" />
+      <project id="ProjectLuminous" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.save.policy.STASH,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.force.push.enabled" collectionTime="1507252493775" />
+      <project id="MyApplication" values="config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.repo.sync.DONT_SYNC,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1505313033630" />
+      <project id="khakhathi" values="config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled,config.push.update.all.roots.enabled" collectionTime="1507258841809" />
+      <project id="MyGame" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled" collectionTime="1501362813600" />
+      <project id="beerApp" values="config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1501312547583" />
+      <project id="ContactManager" values="config.update.type.BRANCH_DEFAULT,data.remotes.in.project.0,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.remote.branches.count.0,config.ssh.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.local.branches.count.1" collectionTime="1504656647621" />
+    </group>
+    <group name="vcs">
+      <project id="BeerFinalPrototype" values="Git" collectionTime="1501778731372" />
+      <project id="EverythingMaps" values="Git" collectionTime="1502367184458" />
+      <project id="SpaceMindZ001" values="Git" collectionTime="1507348016424" />
+      <project id="BeerFinalPrototype2" values="Git" collectionTime="1501326234029" />
+      <project id="Prototype102" values="Git" collectionTime="1503815313258" />
+      <project id="Project77" values="Git" collectionTime="1507402751475" />
+      <project id="OPSC7312_Assignment1_15012046" values="Git" collectionTime="1505284163411" />
+      <project id="Project772" values="Git" collectionTime="1506835000881" />
+      <project id="ContactManager" values="Git" collectionTime="1504656647604" />
+      <project id="Project98" values="Git" collectionTime="1506775134890" />
+      <project id="TheApplication" values="Git" collectionTime="1501333847265" />
+    </group>
+    <group name="frameworks">
+      <project id="OPSC7312_Assignment1_15012046" values="java-gradle,android-gradle,android" collectionTime="1505284163411" />
+      <project id="SpaceMindZ001" values="android-gradle,android,java-gradle" collectionTime="1507348016424" />
+      <project id="15012046_Mothupi Ramlepe" values="java-gradle,android-gradle,android" collectionTime="1492091397893" />
+      <project id="beerBuddy" values="java-gradle,android-gradle,android" collectionTime="1501282153994" />
+      <project id="GoogleMapsApplication" values="android-gradle,java-gradle,android" collectionTime="1507388702232" />
+      <project id="OPSC7311_Assignment2_15012046" values="android,android-gradle,java-gradle" collectionTime="1495642373416" />
+      <project id="Project77" values="android,java-gradle,android-gradle" collectionTime="1507402751475" />
+      <project id="DetailedLogin" values="android,android-gradle,java-gradle" collectionTime="1507400738976" />
+      <project id="OPSC7312_Assign1_15008791" values="android,android-gradle,java-gradle" collectionTime="1504790981868" />
+      <project id="DatabaseApplication" values="java-gradle,android-gradle,android" collectionTime="1501343438007" />
+      <project id="BeerFinalPrototype" values="android,android-gradle,java-gradle" collectionTime="1501778731372" />
+      <project id="Prototype102" values="android-gradle,android,java-gradle" collectionTime="1503815313260" />
+      <project id="EverythingMaps" values="android,java-gradle,android-gradle" collectionTime="1502367184458" />
+      <project id="Project47" values="android,java-gradle,android-gradle" collectionTime="1505433339058" />
+      <project id="Project99" values="java-gradle,android-gradle,android" collectionTime="1505684840345" />
+      <project id="Project98" values="java-gradle,android,android-gradle" collectionTime="1506775134892" />
+      <project id="Prototype101" values="android,android-gradle,java-gradle" collectionTime="1503681584181" />
+      <project id="CupsGame_15012046" values="android,java-gradle,android-gradle" collectionTime="1496434768276" />
+      <project id="15012046_OPSC_Assignment1" values="java-gradle,android,android-gradle" collectionTime="1505214131633" />
+      <project id="TextFileApp" values="android-gradle,android,java-gradle" collectionTime="1496240039482" />
+      <project id="app" values="android,android-gradle" collectionTime="1504656642422" />
+      <project id="AndroidMaps" values="java-gradle,android,android-gradle" collectionTime="1505905180460" />
+      <project id="Project772" values="java-gradle,android-gradle,android" collectionTime="1506835000881" />
+      <project id="TheApplication" values="android-gradle,java-gradle,android" collectionTime="1501333847265" />
+      <project id="OPSC7311-Assign2-15012046" values="android-gradle,java-gradle,android" collectionTime="1501105878319" />
+      <project id="BeerFinalPrototype2" values="java-gradle,android-gradle,android" collectionTime="1501326234029" />
+      <project id="OPSC7312_Assignment1_150120462" values="java-gradle,android-gradle,android" collectionTime="1504174523409" />
+      <project id="OPSC_15012046_Assignment_One" values="java-gradle,android,android-gradle" collectionTime="1505162423781" />
+      <project id="ProjectLuminous" values="android-gradle,android,java-gradle" collectionTime="1507252493614" />
+      <project id="MyApplication" values="android,android-gradle,java-gradle" collectionTime="1505313033499" />
+      <project id="khakhathi" values="android,java-gradle,android-gradle" collectionTime="1507258841769" />
+      <project id="MyGame" values="android-gradle,java-gradle,android" collectionTime="1501362813368" />
+      <project id="beerApp" values="android,android-gradle,java-gradle" collectionTime="1501312547530" />
+      <project id="ContactManager" values="android-gradle,java-gradle,android" collectionTime="1504656647604" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="Prototype102" values="AndroidJUnit" collectionTime="1503815313265" />
+      <project id="MyApplication" values="AndroidJUnit" collectionTime="1505313033514" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="OPSC7312_Assignment1_15012046" values="AndroidRunConfigurationType" collectionTime="1505284163411" />
+      <project id="SpaceMindZ001" values="AndroidRunConfigurationType" collectionTime="1507348016424" />
+      <project id="GoogleMapsApplication" values="AndroidRunConfigurationType" collectionTime="1507388702247" />
+      <project id="beerBuddy" values="AndroidRunConfigurationType" collectionTime="1501282153994" />
+      <project id="OPSC7311_Assignment2_15012046" values="AndroidRunConfigurationType" collectionTime="1495642373416" />
+      <project id="Project77" values="AndroidRunConfigurationType" collectionTime="1507402751475" />
+      <project id="DetailedLogin" values="AndroidRunConfigurationType" collectionTime="1507400738985" />
+      <project id="OPSC7312_Assign1_15008791" values="AndroidRunConfigurationType" collectionTime="1504790981868" />
+      <project id="DatabaseApplication" values="AndroidRunConfigurationType" collectionTime="1501343438008" />
+      <project id="BeerFinalPrototype" values="AndroidRunConfigurationType" collectionTime="1501778731372" />
+      <project id="Prototype102" values="AndroidRunConfigurationType" collectionTime="1503815313265" />
+      <project id="EverythingMaps" values="AndroidRunConfigurationType" collectionTime="1502367184458" />
+      <project id="Project47" values="AndroidRunConfigurationType" collectionTime="1505433339058" />
+      <project id="Project99" values="AndroidRunConfigurationType" collectionTime="1505684840345" />
+      <project id="Project98" values="AndroidRunConfigurationType" collectionTime="1506775134906" />
+      <project id="Prototype101" values="AndroidRunConfigurationType" collectionTime="1503681584181" />
+      <project id="CupsGame_15012046" values="AndroidRunConfigurationType" collectionTime="1496434768276" />
+      <project id="Project772" values="AndroidRunConfigurationType" collectionTime="1506835000881" />
+      <project id="15012046_OPSC_Assignment1" values="AndroidRunConfigurationType" collectionTime="1505214131649" />
+      <project id="TextFileApp" values="AndroidRunConfigurationType" collectionTime="1496240039482" />
+      <project id="OPSC_15012046_Assignment_One" values="AndroidRunConfigurationType" collectionTime="1505162423781" />
+      <project id="AndroidMaps" values="AndroidRunConfigurationType" collectionTime="1505905180460" />
+      <project id="AnInBevPrototype" values="AndroidRunConfigurationType" collectionTime="1502804530520" />
+      <project id="TheApplication" values="AndroidRunConfigurationType" collectionTime="1501333847265" />
+      <project id="OPSC7311-Assign2-15012046" values="AndroidRunConfigurationType" collectionTime="1501105878319" />
+      <project id="BeerFinalPrototype2" values="AndroidRunConfigurationType" collectionTime="1501326234029" />
+      <project id="OPSC7312_Assignment1_150120462" values="AndroidRunConfigurationType" collectionTime="1504174523409" />
+      <project id="ProjectLuminous" values="AndroidRunConfigurationType" collectionTime="1507252493614" />
+      <project id="MyApplication" values="AndroidRunConfigurationType" collectionTime="1505313033514" />
+      <project id="khakhathi" values="AndroidRunConfigurationType" collectionTime="1507258841769" />
+      <project id="MyGame" values="AndroidRunConfigurationType" collectionTime="1501362813369" />
+      <project id="beerApp" values="AndroidRunConfigurationType" collectionTime="1501312547530" />
+    </group>
+    <group name="language-level">
+      <project id="OPSC7312_Assignment1_15012046" values="JDK_1_7" collectionTime="1505284163776" />
+      <project id="SpaceMindZ001" values="JDK_1_7" collectionTime="1507348016457" />
+      <project id="15012046_Mothupi Ramlepe" values="JDK_1_7,JDK_1_8" collectionTime="1492091398142" />
+      <project id="beerBuddy" values="JDK_1_7" collectionTime="1501282154148" />
+      <project id="GoogleMapsApplication" values="JDK_1_7" collectionTime="1507388702499" />
+      <project id="OPSC7311_Assignment2_15012046" values="JDK_1_7" collectionTime="1495642373641" />
+      <project id="Project77" values="JDK_1_7" collectionTime="1507402751555" />
+      <project id="DetailedLogin" values="JDK_1_7" collectionTime="1507400739224" />
+      <project id="OPSC7312_Assign1_15008791" values="JDK_1_7" collectionTime="1504790981921" />
+      <project id="DatabaseApplication" values="JDK_1_7" collectionTime="1501343438128" />
+      <project id="BeerFinalPrototype" values="JDK_1_7" collectionTime="1501778731572" />
+      <project id="Prototype102" values="JDK_1_7" collectionTime="1503815340942" />
+      <project id="EverythingMaps" values="JDK_1_7" collectionTime="1502367184705" />
+      <project id="Project47" values="JDK_1_7" collectionTime="1505433339107" />
+      <project id="Project99" values="JDK_1_7" collectionTime="1505684840532" />
+      <project id="Project98" values="JDK_1_6" collectionTime="1506775135507" />
+      <project id="Prototype101" values="JDK_1_7" collectionTime="1503681584313" />
+      <project id="CupsGame_15012046" values="JDK_1_7" collectionTime="1496434768608" />
+      <project id="Project772" values="JDK_1_7" collectionTime="1506835000958" />
+      <project id="15012046_OPSC_Assignment1" values="JDK_1_7" collectionTime="1505214131849" />
+      <project id="Project176" values="JDK_1_3" collectionTime="1507425988293" />
+      <project id="TextFileApp" values="JDK_1_7" collectionTime="1496240039682" />
+      <project id="app" values="JDK_1_8" collectionTime="1504656642518" />
+      <project id="AndroidMaps" values="JDK_1_7" collectionTime="1505905180660" />
+      <project id="AnInBevPrototype" values="JDK_1_3" collectionTime="1502804530741" />
+      <project id="TheApplication" values="JDK_1_7" collectionTime="1501333847316" />
+      <project id="OPSC7311-Assign2-15012046" values="JDK_1_7" collectionTime="1501105878404" />
+      <project id="BeerFinalPrototype2" values="JDK_1_7" collectionTime="1501326234070" />
+      <project id="OPSC7312_Assignment1_150120462" values="JDK_1_7" collectionTime="1504174523523" />
+      <project id="OPSC_15012046_Assignment_One" values="JDK_1_7" collectionTime="1505162423950" />
+      <project id="ProjectLuminous" values="JDK_1_7" collectionTime="1507252493775" />
+      <project id="MyApplication" values="JDK_1_7" collectionTime="1505313033630" />
+      <project id="khakhathi" values="JDK_1_7" collectionTime="1507258841809" />
+      <project id="MyGame" values="JDK_1_7" collectionTime="1501362813598" />
+      <project id="beerApp" values="JDK_1_7" collectionTime="1501312547583" />
+      <project id="ContactManager" values="JDK_1_6" collectionTime="1504656647621" />
+    </group>
+    <group name="images.ide.background">
+      <project id="OPSC7312_Assignment1_15012046" values="frame 0,editor 0" collectionTime="1505284163773" />
+      <project id="SpaceMindZ001" values="frame 0,editor 0" collectionTime="1507348016457" />
+      <project id="15012046_Mothupi Ramlepe" values="editor 0,frame 0" collectionTime="1492091398142" />
+      <project id="beerBuddy" values="frame 0,editor 0" collectionTime="1501282154143" />
+      <project id="GoogleMapsApplication" values="frame 0,editor 0" collectionTime="1507388702497" />
+      <project id="OPSC7311_Assignment2_15012046" values="editor 0,frame 0" collectionTime="1495642373636" />
+      <project id="Project77" values="frame 0,editor 0" collectionTime="1507402751555" />
+      <project id="DetailedLogin" values="frame 0,editor 0" collectionTime="1507400739222" />
+      <project id="OPSC7312_Assign1_15008791" values="editor 0,frame 0" collectionTime="1504790981921" />
+      <project id="DatabaseApplication" values="frame 0,editor 0" collectionTime="1501343438124" />
+      <project id="BeerFinalPrototype" values="frame 0,editor 0" collectionTime="1501778731572" />
+      <project id="Prototype102" values="frame 0,editor 0" collectionTime="1503815313528" />
+      <project id="EverythingMaps" values="editor 0,frame 0" collectionTime="1502367184705" />
+      <project id="Project47" values="frame 0,editor 0" collectionTime="1505433339107" />
+      <project id="Project99" values="editor 0,frame 0" collectionTime="1505684840532" />
+      <project id="Project98" values="editor 0,frame 0" collectionTime="1506775135505" />
+      <project id="Prototype101" values="editor 0,frame 0" collectionTime="1503681584313" />
+      <project id="CupsGame_15012046" values="frame 0,editor 0" collectionTime="1496434768577" />
+      <project id="Project772" values="frame 0,editor 0" collectionTime="1506835000957" />
+      <project id="15012046_OPSC_Assignment1" values="frame 0,editor 0" collectionTime="1505214131849" />
+      <project id="Project176" values="editor 0,frame 0" collectionTime="1507425985629" />
+      <project id="TextFileApp" values="editor 0,frame 0" collectionTime="1496240039682" />
+      <project id="app" values="editor 0,frame 0" collectionTime="1504656642517" />
+      <project id="AndroidMaps" values="editor 0,frame 0" collectionTime="1505905180644" />
+      <project id="AnInBevPrototype" values="frame 0,editor 0" collectionTime="1502804530725" />
+      <project id="TheApplication" values="frame 0,editor 0" collectionTime="1501333847315" />
+      <project id="OPSC7311-Assign2-15012046" values="frame 0,editor 0" collectionTime="1501105878404" />
+      <project id="BeerFinalPrototype2" values="editor 0,frame 0" collectionTime="1501326234068" />
+      <project id="OPSC7312_Assignment1_150120462" values="frame 0,editor 0" collectionTime="1504174523484" />
+      <project id="OPSC_15012046_Assignment_One" values="editor 0,frame 0" collectionTime="1505162423950" />
+      <project id="ProjectLuminous" values="editor 0,frame 0" collectionTime="1507252493775" />
+      <project id="MyApplication" values="editor 0,frame 0" collectionTime="1505313033630" />
+      <project id="khakhathi" values="frame 0,editor 0" collectionTime="1507258841809" />
+      <project id="MyGame" values="frame 0,editor 0" collectionTime="1501362813596" />
+      <project id="beerApp" values="editor 0,frame 0" collectionTime="1501312547583" />
+      <project id="ContactManager" values="editor 0,frame 0" collectionTime="1504656647620" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="BeerFinalPrototype" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1501778731572" />
+      <project id="EverythingMaps" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1502367184705" />
+      <project id="SpaceMindZ001" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1507348016457" />
+      <project id="BeerFinalPrototype2" values="data.git.root.count.1,data.commit.count.0" collectionTime="1501326234068" />
+      <project id="Prototype102" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1503815313528" />
+      <project id="Project77" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1507402751555" />
+      <project id="OPSC7312_Assignment1_15012046" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1505284163773" />
+      <project id="Project772" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1506835000957" />
+      <project id="ContactManager" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1504656647620" />
+      <project id="Project98" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1506775135504" />
+      <project id="TheApplication" values="data.commit.count.0,data.git.root.count.1" collectionTime="1501333847315" />
+    </group>
+    <group name="file-type">
+      <project id="OPSC7312_Assignment1_15012046" values="ARCHIVE,UNKNOWN,XML,Groovy,JAVA,IDEA_MODULE,ProGuard File,Images,PLAIN_TEXT,Properties" collectionTime="1505284163716" />
+      <project id="SpaceMindZ001" values="PLAIN_TEXT,ARCHIVE,ProGuard File,Groovy,UNKNOWN,IDEA_MODULE,JAVA,XML,Images,CLASS,Properties" collectionTime="1507348016457" />
+      <project id="15012046_Mothupi Ramlepe" values="UNKNOWN,Images,XML,PLAIN_TEXT,ARCHIVE,Groovy,Properties,JAVA,IDEA_MODULE,ProGuard File" collectionTime="1492091398073" />
+      <project id="beerBuddy" values="PLAIN_TEXT,ARCHIVE,Groovy,UNKNOWN,Images,Properties,IDEA_MODULE,JAVA,ProGuard File,XML" collectionTime="1501282154126" />
+      <project id="GoogleMapsApplication" values="XML,IDEA_MODULE,Properties,Groovy,UNKNOWN,ProGuard File,JAVA,ARCHIVE,Images,PLAIN_TEXT" collectionTime="1507388702412" />
+      <project id="OPSC7311_Assignment2_15012046" values="XML,ARCHIVE,Properties,JAVA,Images,Groovy,ProGuard File,PLAIN_TEXT,IDEA_MODULE,UNKNOWN" collectionTime="1495642373571" />
+      <project id="Project77" values="JavaScript,Images,XML,JAVA,Groovy,YAML,Properties,CSS,JSON Schema,UNKNOWN,HTML,IDEA_MODULE,ARCHIVE,ProGuard File,PLAIN_TEXT" collectionTime="1507402751540" />
+      <project id="DetailedLogin" values="CLASS,Properties,Groovy,PLAIN_TEXT,ARCHIVE,ProGuard File,JAVA,Images,IDEA_MODULE,UNKNOWN,XML" collectionTime="1507400739135" />
+      <project id="OPSC7312_Assign1_15008791" values="Groovy,IDEA_MODULE,Properties,XML,AIDL,ARCHIVE,Images,UNKNOWN,ProGuard File,PLAIN_TEXT,JAVA" collectionTime="1504790981921" />
+      <project id="DatabaseApplication" values="ARCHIVE,PLAIN_TEXT,Images,UNKNOWN,Properties,IDEA_MODULE,ProGuard File,XML,Groovy,JAVA" collectionTime="1501343438105" />
+      <project id="BeerFinalPrototype" values="IDEA_MODULE,Properties,JAVA,ARCHIVE,XML,UNKNOWN,ProGuard File,Groovy,PLAIN_TEXT,Images" collectionTime="1501778731503" />
+      <project id="Prototype102" values="Properties,IDEA_MODULE,UNKNOWN,ProGuard File,ARCHIVE,Groovy,JAVA,Images,XML,PLAIN_TEXT" collectionTime="1503815313419" />
+      <project id="EverythingMaps" values="XML,ProGuard File,JAVA,Properties,ARCHIVE,UNKNOWN,PLAIN_TEXT,Groovy,Images,IDEA_MODULE" collectionTime="1502367184674" />
+      <project id="Project47" values="Properties,XML,IDEA_MODULE,JAVA,PLAIN_TEXT,UNKNOWN,ARCHIVE,Groovy,Images,ProGuard File" collectionTime="1505433339106" />
+      <project id="Project99" values="ProGuard File,Images,JAVA,Groovy,UNKNOWN,PLAIN_TEXT,ARCHIVE,XML,Properties,IDEA_MODULE" collectionTime="1505684840501" />
+      <project id="Project98" values="Images,JAVA,Properties,XML,PLAIN_TEXT,IDEA_MODULE,ARCHIVE,UNKNOWN,Groovy,ProGuard File" collectionTime="1506775135351" />
+      <project id="Prototype101" values="XML,Properties,ARCHIVE,JAVA,Groovy,ProGuard File,IDEA_MODULE,UNKNOWN,Images,PLAIN_TEXT" collectionTime="1503681584313" />
+      <project id="CupsGame_15012046" values="Groovy,IDEA_MODULE,XML,JAVA,PLAIN_TEXT,UNKNOWN,Properties,Images,ProGuard File,ARCHIVE" collectionTime="1496434768526" />
+      <project id="15012046_OPSC_Assignment1" values="ARCHIVE,PLAIN_TEXT,XML,JAVA,Images,IDEA_MODULE,UNKNOWN,Properties,ProGuard File,Groovy" collectionTime="1505214131833" />
+      <project id="TextFileApp" values="Images,PLAIN_TEXT,Groovy,ARCHIVE,Properties,ProGuard File,XML,UNKNOWN,IDEA_MODULE,JAVA" collectionTime="1496240039644" />
+      <project id="app" values="Groovy,IDEA_MODULE,XML,PLAIN_TEXT,ARCHIVE,JAVA,Images,Properties" collectionTime="1504656642516" />
+      <project id="AndroidMaps" values="PLAIN_TEXT,IDEA_MODULE,JAVA,Groovy,Images,ProGuard File,Properties,XML,ARCHIVE,UNKNOWN" collectionTime="1505905180644" />
+      <project id="Project772" values="Images,ProGuard File,IDEA_MODULE,JAVA,XML,PLAIN_TEXT,Groovy,UNKNOWN,ARCHIVE,Properties" collectionTime="1506835000957" />
+      <project id="TheApplication" values="Groovy,ProGuard File,XML,Images,IDEA_MODULE,Properties,JAVA,ARCHIVE,PLAIN_TEXT,UNKNOWN" collectionTime="1501333847314" />
+      <project id="OPSC7311-Assign2-15012046" values="JAVA,PLAIN_TEXT,Images,IDEA_MODULE,UNKNOWN,Properties,ProGuard File,ARCHIVE,Groovy,XML" collectionTime="1501105878399" />
+      <project id="BeerFinalPrototype2" values="JAVA,PLAIN_TEXT,Properties,XML,UNKNOWN,Groovy,IDEA_MODULE,ProGuard File,ARCHIVE,Images" collectionTime="1501326234068" />
+      <project id="OPSC7312_Assignment1_150120462" values="UNKNOWN,XML,ProGuard File,PLAIN_TEXT,Groovy,IDEA_MODULE,Properties,ARCHIVE,Images,JAVA" collectionTime="1504174523482" />
+      <project id="OPSC_15012046_Assignment_One" values="IDEA_MODULE,Images,ARCHIVE,XML,Groovy,PLAIN_TEXT,UNKNOWN,Properties,JAVA,ProGuard File" collectionTime="1505162423881" />
+      <project id="ProjectLuminous" values="Groovy,ProGuard File,PLAIN_TEXT,ARCHIVE,XML,Properties,Images,JAVA,UNKNOWN,IDEA_MODULE" collectionTime="1507252493775" />
+      <project id="MyApplication" values="ARCHIVE,PLAIN_TEXT,IDEA_MODULE,JAVA,Images,UNKNOWN,XML,Groovy,Properties,ProGuard File" collectionTime="1505313033615" />
+      <project id="khakhathi" values="Groovy,IDEA_MODULE,XML,ProGuard File,Properties,JAVA,CLASS,UNKNOWN,Images,PLAIN_TEXT,ARCHIVE" collectionTime="1507258841809" />
+      <project id="MyGame" values="ProGuard File,JAVA,Groovy,Images,Properties,XML,PLAIN_TEXT,ARCHIVE,UNKNOWN,IDEA_MODULE" collectionTime="1501362813563" />
+      <project id="beerApp" values="ProGuard File,ARCHIVE,UNKNOWN,IDEA_MODULE,Groovy,Images,JAVA,Properties,XML,PLAIN_TEXT" collectionTime="1501312547583" />
+      <project id="ContactManager" values="IDEA_MODULE,Images,Properties,Groovy,ARCHIVE,ProGuard File,XML,PLAIN_TEXT,JAVA" collectionTime="1504656647619" />
+    </group>
+    <group name="module type">
+      <project id="OPSC7312_Assignment1_15012046" values="JAVA_MODULE" collectionTime="1505284163411" />
+      <project id="SpaceMindZ001" values="JAVA_MODULE" collectionTime="1507348016424" />
+      <project id="15012046_Mothupi Ramlepe" values="JAVA_MODULE" collectionTime="1492091397893" />
+      <project id="beerBuddy" values="JAVA_MODULE" collectionTime="1501282153994" />
+      <project id="GoogleMapsApplication" values="JAVA_MODULE" collectionTime="1507388702233" />
+      <project id="OPSC7311_Assignment2_15012046" values="JAVA_MODULE" collectionTime="1495642373416" />
+      <project id="Project77" values="JAVA_MODULE" collectionTime="1507402751475" />
+      <project id="DetailedLogin" values="JAVA_MODULE" collectionTime="1507400738977" />
+      <project id="OPSC7312_Assign1_15008791" values="JAVA_MODULE" collectionTime="1504790981868" />
+      <project id="DatabaseApplication" values="JAVA_MODULE" collectionTime="1501343438007" />
+      <project id="BeerFinalPrototype" values="JAVA_MODULE" collectionTime="1501778731372" />
+      <project id="Prototype102" values="JAVA_MODULE" collectionTime="1503815313261" />
+      <project id="EverythingMaps" values="JAVA_MODULE" collectionTime="1502367184458" />
+      <project id="Project47" values="JAVA_MODULE" collectionTime="1505433339058" />
+      <project id="Project99" values="JAVA_MODULE" collectionTime="1505684840345" />
+      <project id="Project98" values="JAVA_MODULE" collectionTime="1506775134893" />
+      <project id="Prototype101" values="JAVA_MODULE" collectionTime="1503681584181" />
+      <project id="CupsGame_15012046" values="JAVA_MODULE" collectionTime="1496434768276" />
+      <project id="15012046_OPSC_Assignment1" values="JAVA_MODULE" collectionTime="1505214131633" />
+      <project id="TextFileApp" values="JAVA_MODULE" collectionTime="1496240039482" />
+      <project id="app" values="JAVA_MODULE" collectionTime="1504656642422" />
+      <project id="AndroidMaps" values="JAVA_MODULE" collectionTime="1505905180460" />
+      <project id="Project772" values="JAVA_MODULE" collectionTime="1506835000881" />
+      <project id="TheApplication" values="JAVA_MODULE" collectionTime="1501333847265" />
+      <project id="OPSC7311-Assign2-15012046" values="JAVA_MODULE" collectionTime="1501105878319" />
+      <project id="BeerFinalPrototype2" values="JAVA_MODULE" collectionTime="1501326234029" />
+      <project id="OPSC7312_Assignment1_150120462" values="JAVA_MODULE" collectionTime="1504174523409" />
+      <project id="OPSC_15012046_Assignment_One" values="JAVA_MODULE" collectionTime="1505162423781" />
+      <project id="ProjectLuminous" values="JAVA_MODULE" collectionTime="1507252493614" />
+      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1505313033499" />
+      <project id="khakhathi" values="JAVA_MODULE" collectionTime="1507258841769" />
+      <project id="MyGame" values="JAVA_MODULE" collectionTime="1501362813369" />
+      <project id="beerApp" values="JAVA_MODULE" collectionTime="1501312547530" />
+      <project id="ContactManager" values="JAVA_MODULE" collectionTime="1504656647604" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="execute.AndroidJUnit.Run" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="5" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="735" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="17" />
+      <entry feature="git.branch.checkout.local" count="1" />
+      <entry feature="git.branch.create.new" count="1" />
+      <entry feature="git.branch.merge" count="3" />
+      <entry feature="ide.help.Vcs.Push.Dialog" count="2" />
+      <entry feature="ide.help.ideaInterface.editor" count="3" />
+      <entry feature="ide.settings.Android_SDK" count="2" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.CVS" count="1" />
+      <entry feature="ide.settings.Git" count="6" />
+      <entry feature="ide.settings.Notifications" count="5" />
+      <entry feature="ide.settings.Project_Structure" count="4" />
+      <entry feature="ideaapp.started" count="149" />
+      <entry feature="terminal.win" count="1" />
+      <entry feature="tips.of.the.day.next" count="53" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+    </counts>
+  </component>
+</application>
