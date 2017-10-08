@@ -53,7 +53,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="AndroidEnableDdms" value="true" />
-    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.WIDTH" value="415" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.WIDTH" value="450" />
     <property name="last.imported.location" value="$USER_HOME$/AndroidStudioProjects/App2/Project176" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
     <property name="decompiler.legal.notice.accepted" value="true" />
@@ -79,6 +79,5 @@
     <property name="ColorChooser.RecentColors" value="255-140-16-255" />
     <property name="ANDROID.STARRED_PROPERTIES" value="visibility;autoLink;" />
     <property name="ResourceChooserGridMode" value="true" />
-    <property name="com.android.tools.idea.rendering.errors.ui.RenderErrorPanel.minimized" value="true" />
   </component>
 </application>

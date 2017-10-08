@@ -77,9 +77,22 @@ public class Dashboard extends AppCompatActivity
         getMenuInflater().inflate(R.menu.menu_dasboard, menu);
         return true;
     }
-    public void onClickMaps(View view)
+    //Click tab to view maps
+    public void onClickMapsTab(View view)
     {
         Intent intent1 = new Intent(this,GoogleMaps.class);
+        startActivity(intent1);
+    }
+    //Click tab to request uber
+    public void onClickUberTab(View view)
+    {
+        Intent intent1 = new Intent(this,Uber.class);
+        startActivity(intent1);
+    }
+    //Click tab to have a live feel of social media platforms
+    public void onClickSocialTab(View view)
+    {
+        Intent intent1 = new Intent(this,ChatView.class);
         startActivity(intent1);
     }
 
