@@ -24,21 +24,16 @@
             </intent-filter>
         </activity>
         <activity android:name=".Registrations" />
-        <activity
-            android:name=".Dashboard"
-            android:label="@string/title_activity_dasboard"
-            android:parentActivityName=".LoginActivity"
-            android:theme="@style/AppTheme.NoActionBar">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.mothupii_.project176.LoginActivity" />
-        </activity>
         <activity android:name=".iSocialize" />
         <activity android:name=".iSocializeLeft" />
         <activity android:name=".iSocializeRight" />
         <activity android:name=".ChatView" />
         <activity android:name=".GoogleMaps" />
-        <activity android:name=".Uber"></activity>
+        <activity android:name=".Uber" />
+        <activity
+            android:name=".Dashboard"
+            android:label="@string/title_activity_dashboard"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

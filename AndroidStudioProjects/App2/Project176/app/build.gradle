@@ -2,26 +2,26 @@ apply plugin: 'com.android.application'
 
 android
         {
-    compileSdkVersion 26
-    buildToolsVersion "26.0.1"
-    defaultConfig
-            {
-        applicationId "com.example.mothupii_.project176"
-        minSdkVersion 18
-        targetSdkVersion 26
-        versionCode 1
-        versionName "1.0"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-    }
-    buildTypes
-            {
-        release
-                {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            compileSdkVersion 26
+            buildToolsVersion "26.0.1"
+            defaultConfig
+                    {
+                        applicationId "com.example.mothupii_.project176"
+                        minSdkVersion 18
+                        targetSdkVersion 26
+                        versionCode 1
+                        versionName "1.0"
+                        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+                    }
+            buildTypes
+                    {
+                        release
+                                {
+                                    minifyEnabled false
+                                    proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+                                }
+                    }
         }
-    }
-}
 
 dependencies
         {
@@ -30,9 +30,9 @@ dependencies
                     {
                         exclude group: 'com.android.support', module: 'support-annotations'
                     })
+            //compile 'com.uber.sdk:rides:0.5.2'
             compile 'com.android.support:appcompat-v7:26.+'
             compile 'com.android.support:design:26.+'
             compile 'com.android.support.constraint:constraint-layout:1.0.2'
-            //compile 'com.uber.sdk:rides:0.5.2'
             testCompile 'junit:junit:4.12'
         }
