@@ -22,4 +22,6 @@
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="title_activity_dasboard">Dasboard</string>
     <string name="title_activity_content">Content</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="title_activity_login">Sign in</string>
 </resources>

@@ -2,18 +2,27 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project176" />
-        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project77" />
-        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\DetailedLogin" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project175" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project172" />
         <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\GoogleMapsApplication" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project176" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\iLocateFriends" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\FriendLocator" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\FriendFinder" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\FriendFinder2" />
+        <option value="C:\Users\Mothupii_\Desktop\Kioski2" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project772" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\FriendLocator_WIL" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project47" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project77" />
         <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\SpaceMindZ001" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project99" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project98" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project157" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\AndroidMaps" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\DetailedLogin" />
         <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\khakhathi" />
         <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\ProjectLuminous" />
-        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project772" />
-        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project98" />
-        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\AndroidMaps" />
-        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project99" />
-        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project47" />
         <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\MyApplication" />
         <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\OPSC7312_Assignment1_15012046" />
         <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\15012046_OPSC_Assignment1" />
@@ -46,10 +55,11 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project176" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\GoogleMapsApplication" />
+        <option value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project175" />
       </list>
     </option>
-    <option name="lastPath" value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project176" />
+    <option name="lastPath" value="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project175" />
     <option name="additionalInfo">
       <map>
         <entry key="C:\Users\Mothupii_\AndroidStudioProjects\15012046_Mothupi Ramlepe">
@@ -91,7 +101,7 @@
               <option name="build" value="AI-162.4069837" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1505906417055" />
+              <option name="projectOpenTimestamp" value="1507627368803" />
               <option name="buildTimestamp" value="1496700000000" />
             </RecentProjectMetaInfo>
           </value>
@@ -118,13 +128,57 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:\Users\Mothupii_\AndroidStudioProjects\App2\FriendFinder">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1508956186690" />
+              <option name="buildTimestamp" value="1496700000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Mothupii_\AndroidStudioProjects\App2\FriendFinder2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1508955625781" />
+              <option name="buildTimestamp" value="1496700000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Mothupii_\AndroidStudioProjects\App2\FriendLocator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1508957259203" />
+              <option name="buildTimestamp" value="1496700000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Mothupii_\AndroidStudioProjects\App2\FriendLocator_WIL">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1508721188971" />
+              <option name="buildTimestamp" value="1496700000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:\Users\Mothupii_\AndroidStudioProjects\App2\GoogleMapsApplication">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="AI-162.4069837" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1507376986016" />
+              <option name="projectOpenTimestamp" value="1508957987194" />
               <option name="buildTimestamp" value="1496700000000" />
             </RecentProjectMetaInfo>
           </value>
@@ -195,13 +249,46 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project157">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1507897826944" />
+              <option name="buildTimestamp" value="1496700000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project172">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1508959094141" />
+              <option name="buildTimestamp" value="1496700000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project175">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1508960028236" />
+              <option name="buildTimestamp" value="1496700000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:\Users\Mothupii_\AndroidStudioProjects\App2\Project176">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="AI-162.4069837" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1507476525705" />
+              <option name="projectOpenTimestamp" value="1508957785388" />
               <option name="buildTimestamp" value="1496700000000" />
             </RecentProjectMetaInfo>
           </value>
@@ -212,7 +299,7 @@
               <option name="build" value="AI-162.4069837" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1505426874774" />
+              <option name="projectOpenTimestamp" value="1508176504592" />
               <option name="buildTimestamp" value="1496700000000" />
             </RecentProjectMetaInfo>
           </value>
@@ -223,7 +310,7 @@
               <option name="build" value="AI-162.4069837" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1507402672665" />
+              <option name="projectOpenTimestamp" value="1508157961623" />
               <option name="buildTimestamp" value="1496700000000" />
             </RecentProjectMetaInfo>
           </value>
@@ -234,7 +321,7 @@
               <option name="build" value="AI-162.4069837" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1506775136243" />
+              <option name="projectOpenTimestamp" value="1508721502950" />
               <option name="buildTimestamp" value="1496700000000" />
             </RecentProjectMetaInfo>
           </value>
@@ -245,7 +332,7 @@
               <option name="build" value="AI-162.4069837" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1506775031149" />
+              <option name="projectOpenTimestamp" value="1508152501523" />
               <option name="buildTimestamp" value="1496700000000" />
             </RecentProjectMetaInfo>
           </value>
@@ -256,7 +343,7 @@
               <option name="build" value="AI-162.4069837" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1505683976879" />
+              <option name="projectOpenTimestamp" value="1508155412907" />
               <option name="buildTimestamp" value="1496700000000" />
             </RecentProjectMetaInfo>
           </value>
@@ -278,7 +365,18 @@
               <option name="build" value="AI-162.4069837" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
-              <option name="projectOpenTimestamp" value="1507373100006" />
+              <option name="projectOpenTimestamp" value="1508155443814" />
+              <option name="buildTimestamp" value="1496700000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Mothupii_\AndroidStudioProjects\App2\iLocateFriends">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1508957615242" />
               <option name="buildTimestamp" value="1496700000000" />
             </RecentProjectMetaInfo>
           </value>
@@ -456,6 +554,17 @@
               <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
               <option name="projectOpenTimestamp" value="1501282069503" />
               <option name="buildTimestamp" value="1492725600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Mothupii_\Desktop\Kioski2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="C:\Program Files\Android\Android Studio\bin" />
+              <option name="projectOpenTimestamp" value="1508833449588" />
+              <option name="buildTimestamp" value="1496700000000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

@@ -14,7 +14,6 @@ public class GoogleMaps extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_google_maps);
 
-
         //Content provider to store previously searched data by the user
         //show current location
         Uri restuarantsIntentUri = Uri.parse("geo:0,0?q=My current Location");

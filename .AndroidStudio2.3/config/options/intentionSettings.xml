@@ -5,5 +5,6 @@
     <ignoreAction name="Language Injection/Edit Injected Fragment" />
     <ignoreAction name="Java/Control Flow/Remove Braces" />
     <ignoreAction name="Android/Override Resource in Other Configuration..." />
+    <ignoreAction name="Language Injection/Edit Injection Settings" />
   </component>
 </application>

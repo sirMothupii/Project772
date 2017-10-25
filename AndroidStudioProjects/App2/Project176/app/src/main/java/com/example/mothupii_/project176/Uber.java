@@ -16,6 +16,7 @@ public class Uber extends AppCompatActivity
 
        /** case  R.id.tabItemUber:
         {
+        Google maps intent
             String Uri ="geo "+newPlace.getLatitude()+","+newPlace.getLongitude() +
                     "?q="+newPlace.getLatitude()+","+newPlace.getLongitude();
             startActivity(new Intent(Intent.ACTION_VIEW, android.net.Uri.parse(uri)));

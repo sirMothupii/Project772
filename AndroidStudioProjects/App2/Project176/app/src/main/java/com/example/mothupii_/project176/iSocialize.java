@@ -10,9 +10,13 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 
+import com.firebase.ui.database.FirebaseListAdapter;
+
 public class iSocialize extends AppCompatActivity
 {
 
+    private static int SIGN_IN_REQUEST_CODE =1;
+    private FirebaseListAdapter<ChatMessage> adapter;
     private static final String TAG = "ChatActivity";
 
     private ChatArrayAdapter chatArrayAdapter;
